@@ -13,3 +13,8 @@ theme = "after-dark"
   weight = 2
   identifier = "post"
   url = "/post/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  identifier = "about"
+  url = "/about/"
