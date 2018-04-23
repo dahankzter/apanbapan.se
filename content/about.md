@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-04-23T12:14:15+02:00
-draft: true
+draft: false
 ---
 
 Apanbapan, or _Monkey Bonkey_ in english, tries to describe how I want the tone of this blog to be.
