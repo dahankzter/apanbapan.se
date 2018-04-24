@@ -2,6 +2,7 @@ baseURL = "https://www.apanbapan.se/"
 languageCode = "en-us"
 title = "Apanbapan's musings"
 theme = "after-dark"
+enableRobotsTXT = true
 
 [[menu.main]]
   name = "Home"
