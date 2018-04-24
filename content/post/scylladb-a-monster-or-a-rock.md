@@ -1,7 +1,7 @@
 ---
 title: "Scylladb a Monster or a Rock"
 date: 2018-04-24T08:36:11+02:00
-draft: true
+draft: false
 categories: ["Databases", "NoSQL", "Backend"]
 tags: ["scylladb", "cassandra", "nosql"]
 ---
